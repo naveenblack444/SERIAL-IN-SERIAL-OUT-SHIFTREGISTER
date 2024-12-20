@@ -1,5 +1,6 @@
-# Developed by: Naveen R 
-# RegisterNumber: 24900811
+**Developed by: Naveen R**
+
+**RegisterNumber: 24900811**
 
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
